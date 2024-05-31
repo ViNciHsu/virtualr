@@ -9,7 +9,7 @@ const Workflow = () => {
         Accelerate Your
         <span className="bg-gradient-to-r from-orange-500 to-orange-800 bg-clip-text text-transparent">
           {" "}
-          coding workflow.
+          coding workflow
         </span>
       </h2>
       <div className="flex flex-wrap justify-center">
